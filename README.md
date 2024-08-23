@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rista Angdembay</h1>
 <h3 align="center">A passionate Data Analyst from USA</h3>
 
-- 🔭 I’m currently working on **Web Scraping in PYTHON**
+- 🔭 I’m currently working on **Web Scraping with BeautifulSoup**
 
 - 🌱 I’m currently learning **Data Analytics & AI Bootcamp**
 
